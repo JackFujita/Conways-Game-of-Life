@@ -1,7 +1,7 @@
 # :space_invader: Conways-Game-of-Life
 Simple implementation of Conway's Game of Life using C
 
-## gliders.conway execution:
+conway execution using sample user input shown below:
 
 ![alt text](https://github.com/JackFujita/Conways-Game-of-Life/blob/main/Animation.gif "gliders.conway execution")
 
